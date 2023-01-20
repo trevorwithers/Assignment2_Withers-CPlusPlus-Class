@@ -1,0 +1,16 @@
+100 Main Street
+100000.00
+1 Princess Street
+1000000.00
+2 Pine Street
+89888.00
+3 Pine Street
+89889.00
+4 Pine Street
+89890.00
+5 Pine Street
+89891.00
+6 Pine Street
+89892.00
+7 Pine Street
+89893.00
